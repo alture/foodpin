@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "com.FoodPin";
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "You need to grant the app access to your camera in order to take photos";
