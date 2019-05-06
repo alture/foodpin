@@ -94,7 +94,7 @@
         <scene sceneID="y21-MQ-n4w">
             <objects>
                 <navigationController id="8U8-kg-fZ8" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="About" image="about" id="lbw-TY-XuT"/>
+                    <tabBarItem key="tabBarItem" title="About" image="about" selectedImage="about" id="lbw-TY-XuT"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="yji-fL-hOC">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
